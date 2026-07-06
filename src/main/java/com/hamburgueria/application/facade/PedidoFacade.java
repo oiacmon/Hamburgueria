@@ -48,7 +48,7 @@ public class PedidoFacade {
         return builder.build();
     }
 
-    public ItemCardapio aplicarExtra(ItemCardapio item, String tipoExtra) {
+    public Hamburguer aplicarExtra(ItemCardapio item, String tipoExtra) {
 
         Hamburguer hamburguer = new HamburguerBase(item.getNome(), item.getPreco());
 
