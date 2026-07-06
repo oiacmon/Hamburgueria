@@ -128,6 +128,6 @@ mvn test
 7. Hambúrguer é preparado (Template Method)
 8. Pedido avança de estado (State)
 9. Observers são notificados (Observer)
-10. Tudo é orquestrado pela Facade
+10. Tudo é direcionado usando o Facade
 
 ---
